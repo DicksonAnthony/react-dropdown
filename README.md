@@ -1,11 +1,10 @@
-### About
+# About
 
 A dropdown menu using reactjs and styled-components.
 
 <hr/>
 
-## Usage
+# Usage
 
-# npm install
-
-# npm start
+## npm install
+## npm start
